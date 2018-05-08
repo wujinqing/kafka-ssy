@@ -53,7 +53,10 @@ clientPort=2181
 ```
 
 
+### 启动zookeeper
+> ./zkServer.sh start-foreground
 
+> start-foreground表示以前台方式启动(即当关闭窗口服务将停止)
 
 
 
